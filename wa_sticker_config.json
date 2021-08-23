@@ -440,7 +440,7 @@
     "costs": 10
   },
   {
-    "animated": false,
+    "animated": true,
     "author": "zepeto.z",
     "id": "2B243099",
     "name": "Zepeto guy",
@@ -448,7 +448,7 @@
     "costs": 30
   },
   {
-    "animated": false,
+    "animated": true,
     "author": "zepeto guy",
     "id": "F8E06AF9",
     "name": "ZZZ.co",
@@ -464,7 +464,7 @@
     "costs": 10
   },
   {
-    "animated": false,
+    "animated": true,
     "author": "Denny Alvarez",
     "id": "FE8BB98F",
     "name": "Memes pa\u0026rsquo; enviar Animados 18",
@@ -488,7 +488,7 @@
     "costs": 0
   },
   {
-    "animated": false,
+    "animated": true,
     "author": "mcf",
     "id": "02C2F2D0",
     "name": "one piece",
@@ -496,7 +496,7 @@
     "costs": 30
   },
   {
-    "animated": false,
+    "animated": true,
     "author": "Tw: @aleeolivares23",
     "id": "196A0649",
     "name": "Randommmm",
@@ -504,7 +504,7 @@
     "costs": 20
   },
   {
-    "animated": false,
+    "animated": true,
     "author": "juanmcirdeiro",
     "id": "2924EAB5",
     "name": "LAKERS",
@@ -512,7 +512,7 @@
     "costs": 15
   },
   {
-    "animated": false,
+    "animated": true,
     "author": "IG:jonathangiraldo23",
     "id": "03EBFC85",
     "name": "Memes que tienes que tener 6",
@@ -520,7 +520,7 @@
     "costs": 15
   },
   {
-    "animated": false,
+    "animated": true,
     "author": "emoji",
     "id": "1DDE22E0",
     "name": "EMOJI 3",
@@ -528,7 +528,7 @@
     "costs": 15
   },
   {
-    "animated": false,
+    "animated": true,
     "author": "Prothera",
     "id": "89844AFF",
     "name": "Luffy - One Piece",
